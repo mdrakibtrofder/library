@@ -5,7 +5,6 @@ import SectionHeader from "@/components/SectionHeader";
 import BookCard from "@/components/BookCard";
 import BookCover from "@/components/BookCover";
 import { FEATURED_IDS, bookById, books, categories, stats } from "@/lib/catalog";
-import { useReveal } from "@/hooks/use-reveal";
 import { useRecent } from "@/hooks/use-recent";
 
 const featured = FEATURED_IDS.map((id) => bookById(id)).filter((b): b is NonNullable<typeof b> => !!b);
@@ -22,7 +21,6 @@ const Home = () => {
   const [q, setQ] = useState("");
   const { ids, clear } = useRecent();
   const recent = ids.map((id) => bookById(id)).filter((b): b is NonNullable<typeof b> => !!b);
-  useReveal(recent.length);
 
   const onSearch = (e: FormEvent) => {
     e.preventDefault();

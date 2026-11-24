@@ -7,7 +7,6 @@ import Logo from "@/components/Logo";
 import NotFound from "./NotFound";
 import { authorLine, bookById, books, categoryById, pdfUrl, titleSortKey } from "@/lib/catalog";
 import { rememberBook } from "@/hooks/use-recent";
-import { useReveal } from "@/hooks/use-reveal";
 
 const Reader = () => {
   const { id = "" } = useParams();
@@ -34,7 +33,6 @@ const Reader = () => {
     return same.slice(0, 6);
   }, [book]);
 
-  useReveal(id);
 
   if (!book) return <NotFound />;
 

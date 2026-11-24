@@ -6,7 +6,6 @@ import BookRow from "@/components/BookRow";
 import {
   allAuthors, authorSortKey, books, categories, searchText, slugify, titleSortKey, type Book,
 } from "@/lib/catalog";
-import { useReveal } from "@/hooks/use-reveal";
 
 type View = "category" | "title" | "author";
 
@@ -40,7 +39,6 @@ const Library = () => {
     );
   }, [q, cat]);
 
-  useReveal(`${view}|${q}|${cat}`);
 
   const byTitle = useMemo(() => {
     const sorted = [...filtered].sort((a, b) => titleSortKey(a).localeCompare(titleSortKey(b)));
