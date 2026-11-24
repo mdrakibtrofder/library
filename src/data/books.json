@@ -1,0 +1,491 @@
+[
+  {
+    "id": "introduction-to-algorithms",
+    "title": "Introduction to Algorithms",
+    "subtitle": "",
+    "authors": [
+      "Thomas H. Cormen",
+      "Charles E. Leiserson",
+      "Ronald L. Rivest",
+      "Clifford Stein"
+    ],
+    "category": "algorithms",
+    "pages": 1313,
+    "sizeMB": 5.3,
+    "edition": "3rd Edition",
+    "description": "The standard reference on algorithm design and analysis, from sorting and graphs to dynamic programming and NP-completeness.",
+    "file": "introduction-to-algorithms.pdf"
+  },
+  {
+    "id": "the-design-and-analysis-of-computer-algorithms",
+    "title": "The Design and Analysis of Computer Algorithms",
+    "subtitle": "",
+    "authors": [
+      "Alfred V. Aho",
+      "John E. Hopcroft",
+      "Jeffrey D. Ullman"
+    ],
+    "category": "algorithms",
+    "pages": 479,
+    "sizeMB": 26.9,
+    "edition": "",
+    "description": "A classic text on algorithmic paradigms and their complexity, with rigorous proofs and clear models of computation.",
+    "file": "the-design-and-analysis-of-computer-algorithms.pdf"
+  },
+  {
+    "id": "data-structures-using-c",
+    "title": "Data Structures Using C",
+    "subtitle": "",
+    "authors": [
+      "ISRD Group"
+    ],
+    "category": "algorithms",
+    "pages": 458,
+    "sizeMB": 9.2,
+    "edition": "",
+    "description": "Arrays, linked lists, stacks, queues, trees and graphs implemented from first principles in C.",
+    "file": "data-structures-using-c.pdf"
+  },
+  {
+    "id": "clean-code",
+    "title": "Clean Code",
+    "subtitle": "A Handbook of Agile Software Craftsmanship",
+    "authors": [
+      "Robert C. Martin"
+    ],
+    "category": "programming",
+    "pages": 462,
+    "sizeMB": 3.6,
+    "edition": "",
+    "description": "Practical rules for writing readable, maintainable code, with worked refactoring case studies.",
+    "file": "clean-code.pdf"
+  },
+  {
+    "id": "Head-First-Java",
+    "title": "Head First Java",
+    "subtitle": "",
+    "authors": [
+      "Kathy Sierra",
+      "Bert Bates"
+    ],
+    "category": "programming",
+    "pages": 690,
+    "sizeMB": 34.0,
+    "edition": "",
+    "description": "A visual, brain-friendly introduction to Java and object-oriented thinking.",
+    "file": "Head-First-Java.pdf"
+  },
+  {
+    "id": "object-oriented-programming-and-java",
+    "title": "Object-Oriented Programming and Java",
+    "subtitle": "",
+    "authors": [
+      "Danny Poo",
+      "Derek Kiong",
+      "Swarnalatha Ashok"
+    ],
+    "category": "programming",
+    "pages": 328,
+    "sizeMB": 5.6,
+    "edition": "2nd Edition",
+    "description": "Object-oriented concepts taught side by side with Java language features.",
+    "file": "object-oriented-programming-and-java.pdf"
+  },
+  {
+    "id": "Teach-Yourself-C",
+    "title": "Teach Yourself C",
+    "subtitle": "",
+    "authors": [
+      "Herbert Schildt"
+    ],
+    "category": "programming",
+    "pages": 647,
+    "sizeMB": 66.4,
+    "edition": "3rd Edition",
+    "description": "A step-by-step course in the C language, from fundamentals to pointers and file I/O.",
+    "file": "Teach-Yourself-C.pdf"
+  },
+  {
+    "id": "software-engineering",
+    "title": "Software Engineering",
+    "subtitle": "A Practitioner's Approach",
+    "authors": [
+      "Roger S. Pressman"
+    ],
+    "category": "software-engineering",
+    "pages": 930,
+    "sizeMB": 20.0,
+    "edition": "7th Edition",
+    "description": "Process models, requirements, design, testing and project management for real-world software teams.",
+    "file": "software-engineering.pdf"
+  },
+  {
+    "id": "operating-system-concepts",
+    "title": "Operating System Concepts",
+    "subtitle": "",
+    "authors": [
+      "Abraham Silberschatz",
+      "Peter B. Galvin",
+      "Greg Gagne"
+    ],
+    "category": "systems",
+    "pages": 1278,
+    "sizeMB": 29.7,
+    "edition": "",
+    "description": "The 'dinosaur book': processes, memory, storage, file systems and security in modern operating systems.",
+    "file": "operating-system-concepts.pdf"
+  },
+  {
+    "id": "computer-organization-and-design",
+    "title": "Computer Organization and Design",
+    "subtitle": "The Hardware/Software Interface",
+    "authors": [
+      "David A. Patterson",
+      "John L. Hennessy"
+    ],
+    "category": "systems",
+    "pages": 793,
+    "sizeMB": 29.2,
+    "edition": "",
+    "description": "How processors, memory and I/O work together, taught through the MIPS/RISC-V design.",
+    "file": "computer-organization-and-design.pdf"
+  },
+  {
+    "id": "digital-logic-circuit-analysis",
+    "title": "Digital Logic Circuit Analysis & Design",
+    "subtitle": "",
+    "authors": [
+      "Victor P. Nelson",
+      "H. Troy Nagle",
+      "J. David Irwin",
+      "Bill D. Carroll"
+    ],
+    "category": "systems",
+    "pages": 866,
+    "sizeMB": 15.5,
+    "edition": "",
+    "description": "Boolean algebra, combinational and sequential circuit design, and programmable logic.",
+    "file": "digital-logic-circuit-analysis.pdf"
+  },
+  {
+    "id": "computer-networking",
+    "title": "Computer Networking",
+    "subtitle": "A Top-Down Approach",
+    "authors": [
+      "James F. Kurose",
+      "Keith W. Ross"
+    ],
+    "category": "networking",
+    "pages": 856,
+    "sizeMB": 17.5,
+    "edition": "7th Edition",
+    "description": "The Internet protocol stack explained from applications down to the link layer.",
+    "file": "computer-networking.pdf"
+  },
+  {
+    "id": "networking-for-devops",
+    "title": "Networking for DevOps",
+    "subtitle": "",
+    "authors": [
+      "Lalit Tembhare"
+    ],
+    "category": "networking",
+    "pages": 27,
+    "sizeMB": 5.0,
+    "edition": "",
+    "description": "Concise notes on networks, IP addressing and the networking concepts DevOps engineers need.",
+    "file": "networking-for-devops.pdf"
+  },
+  {
+    "id": "database-system-concepts-7th-edition",
+    "title": "Database System Concepts",
+    "subtitle": "",
+    "authors": [
+      "Abraham Silberschatz",
+      "Henry F. Korth",
+      "S. Sudarshan"
+    ],
+    "category": "databases",
+    "pages": 1373,
+    "sizeMB": 16.5,
+    "edition": "7th Edition",
+    "description": "Relational model, SQL, database design, transactions and modern storage and query processing.",
+    "file": "database-system-concepts-7th-edition.pdf"
+  },
+  {
+    "id": "designing-data-intensive-applications",
+    "title": "Designing Data-Intensive Applications",
+    "subtitle": "",
+    "authors": [
+      "Martin Kleppmann"
+    ],
+    "category": "system-design",
+    "pages": 613,
+    "sizeMB": 23.8,
+    "edition": "",
+    "description": "The big ideas behind reliable, scalable and maintainable data systems.",
+    "file": "designing-data-intensive-applications.pdf"
+  },
+  {
+    "id": "system-design-vol-1",
+    "title": "System Design Interview",
+    "subtitle": "An Insider's Guide",
+    "authors": [
+      "Alex Xu"
+    ],
+    "category": "system-design",
+    "pages": 269,
+    "sizeMB": 10.0,
+    "edition": "2nd Edition",
+    "description": "A repeatable framework and worked designs for common large-scale system design questions.",
+    "file": "system-design-vol-1.pdf"
+  },
+  {
+    "id": "system-design-vol-2",
+    "title": "System Design Interview",
+    "subtitle": "Volume 2",
+    "authors": [
+      "Alex Xu",
+      "Sahn Lam"
+    ],
+    "category": "system-design",
+    "pages": 427,
+    "sizeMB": 52.9,
+    "edition": "",
+    "description": "More advanced system design case studies with detailed, diagram-driven walkthroughs.",
+    "file": "system-design-vol-2.pdf"
+  },
+  {
+    "id": "system-design-textbook",
+    "title": "System Design and Architecture",
+    "subtitle": "Interview Questions for FAANG",
+    "authors": [
+      "Ravi Tandon"
+    ],
+    "category": "system-design",
+    "pages": 101,
+    "sizeMB": 12.5,
+    "edition": "",
+    "description": "Architecture patterns and interview-style questions on designing large systems.",
+    "file": "system-design-textbook.pdf"
+  },
+  {
+    "id": "kubernetes-in-action",
+    "title": "Kubernetes in Action",
+    "subtitle": "",
+    "authors": [
+      "Marko Lukša"
+    ],
+    "category": "devops",
+    "pages": 628,
+    "sizeMB": 8.1,
+    "edition": "",
+    "description": "Deploying and operating containerized applications on Kubernetes, with hands-on examples.",
+    "file": "kubernetes-in-action.pdf"
+  },
+  {
+    "id": "kubernetes-patterns",
+    "title": "Kubernetes Patterns",
+    "subtitle": "Reusable Elements for Designing Cloud-Native Applications",
+    "authors": [
+      "Bilgin Ibryam",
+      "Roland Huß"
+    ],
+    "category": "devops",
+    "pages": 129,
+    "sizeMB": 3.8,
+    "edition": "",
+    "description": "Design patterns for building cloud-native applications on Kubernetes.",
+    "file": "kubernetes-patterns.pdf"
+  },
+  {
+    "id": "mastering-kubernetes",
+    "title": "Mastering Kubernetes",
+    "subtitle": "",
+    "authors": [
+      "Gigi Sayfan"
+    ],
+    "category": "devops",
+    "pages": 426,
+    "sizeMB": 4.5,
+    "edition": "",
+    "description": "Architecture, networking, security and extending Kubernetes for production use.",
+    "file": "mastering-kubernetes.pdf"
+  },
+  {
+    "id": "container-networking",
+    "title": "Container Networking",
+    "subtitle": "From Docker to Kubernetes",
+    "authors": [
+      "Michael Hausenblas"
+    ],
+    "category": "devops",
+    "pages": 72,
+    "sizeMB": 1.9,
+    "edition": "",
+    "description": "How containers talk to each other: Docker networking, service discovery and Kubernetes networking.",
+    "file": "container-networking.pdf"
+  },
+  {
+    "id": "docker-docker",
+    "title": "Docker Cheat Sheet",
+    "subtitle": "",
+    "authors": [
+      "JavaScript Mastery"
+    ],
+    "category": "guides",
+    "pages": 46,
+    "sizeMB": 3.5,
+    "edition": "",
+    "description": "Handy Docker commands for images, containers, volumes, networks and Compose.",
+    "file": "docker-docker.pdf"
+  },
+  {
+    "id": "aws-devops",
+    "title": "DevOps Cheat Sheet",
+    "subtitle": "",
+    "authors": [
+      "Unattributed"
+    ],
+    "category": "guides",
+    "pages": 297,
+    "sizeMB": 2.2,
+    "edition": "",
+    "description": "A roadmap and quick reference across Linux, Git, CI/CD, containers, cloud and monitoring.",
+    "file": "aws-devops.pdf"
+  },
+  {
+    "id": "artificial-intelligence-a-modern-approach",
+    "title": "Artificial Intelligence",
+    "subtitle": "A Modern Approach",
+    "authors": [
+      "Stuart Russell",
+      "Peter Norvig"
+    ],
+    "category": "ai-ml",
+    "pages": 1151,
+    "sizeMB": 19.9,
+    "edition": "",
+    "description": "The leading AI textbook: search, logic, planning, probabilistic reasoning, learning and robotics.",
+    "file": "artificial-intelligence-a-modern-approach.pdf"
+  },
+  {
+    "id": "an-introduction-to-statistical-learning",
+    "title": "An Introduction to Statistical Learning",
+    "subtitle": "with Applications in R",
+    "authors": [
+      "Gareth James",
+      "Daniela Witten",
+      "Trevor Hastie",
+      "Robert Tibshirani"
+    ],
+    "category": "ai-ml",
+    "pages": 441,
+    "sizeMB": 12.7,
+    "edition": "",
+    "description": "Accessible coverage of regression, classification, resampling, trees, SVMs and unsupervised learning.",
+    "file": "an-introduction-to-statistical-learning.pdf"
+  },
+  {
+    "id": "digital-image-processing",
+    "title": "Digital Image Processing",
+    "subtitle": "",
+    "authors": [
+      "Rafael C. Gonzalez",
+      "Richard E. Woods"
+    ],
+    "category": "ai-ml",
+    "pages": 1022,
+    "sizeMB": 37.2,
+    "edition": "4th Edition",
+    "description": "Image enhancement, restoration, segmentation, morphology and recognition.",
+    "file": "digital-image-processing.pdf"
+  },
+  {
+    "id": "ai-fluency-key-terminology-cheat-sheet",
+    "title": "AI Fluency",
+    "subtitle": "Key Terminology Cheat Sheet",
+    "authors": [
+      "Unattributed"
+    ],
+    "category": "guides",
+    "pages": 2,
+    "sizeMB": 1.8,
+    "edition": "",
+    "description": "Two-page glossary of the AI Fluency framework: delegation, description, discernment and diligence.",
+    "file": "ai-fluency-key-terminology-cheat-sheet.pdf"
+  },
+  {
+    "id": "ai-productivity-stack",
+    "title": "The AI Productivity Stack",
+    "subtitle": "50 Tools for 2x Output",
+    "authors": [
+      "Mindstream"
+    ],
+    "category": "guides",
+    "pages": 37,
+    "sizeMB": 38.8,
+    "edition": "",
+    "description": "A curated guide to AI tools for writing, research, meetings and automation.",
+    "file": "ai-productivity-stack.pdf"
+  },
+  {
+    "id": "automata-theory-languages-and-computations",
+    "title": "Automata Theory, Languages, and Computation",
+    "subtitle": "",
+    "authors": [
+      "John E. Hopcroft",
+      "Rajeev Motwani",
+      "Jeffrey D. Ullman"
+    ],
+    "category": "theory",
+    "pages": 550,
+    "sizeMB": 5.7,
+    "edition": "",
+    "description": "Finite automata, grammars, Turing machines and the limits of computation.",
+    "file": "automata-theory-languages-and-computations.pdf"
+  },
+  {
+    "id": "discrete-mathematics-and-its-applications",
+    "title": "Discrete Mathematics and Its Applications",
+    "subtitle": "",
+    "authors": [
+      "Kenneth H. Rosen"
+    ],
+    "category": "theory",
+    "pages": 1071,
+    "sizeMB": 11.3,
+    "edition": "7th Edition",
+    "description": "Logic, sets, counting, relations, graphs and proof techniques for computer science.",
+    "file": "discrete-mathematics-and-its-applications.pdf"
+  },
+  {
+    "id": "numerical-analysis",
+    "title": "Numerical Analysis",
+    "subtitle": "",
+    "authors": [
+      "Richard L. Burden",
+      "J. Douglas Faires"
+    ],
+    "category": "theory",
+    "pages": 895,
+    "sizeMB": 14.5,
+    "edition": "9th Edition",
+    "description": "Numerical methods for equations, interpolation, integration and differential equations.",
+    "file": "numerical-analysis.pdf"
+  },
+  {
+    "id": "ielts-overview",
+    "title": "IELTS Overview",
+    "subtitle": "বাংলা গাইড",
+    "authors": [
+      "Unattributed"
+    ],
+    "category": "guides",
+    "pages": 78,
+    "sizeMB": 2.1,
+    "edition": "",
+    "description": "A Bangla overview of the IELTS exam, its modules and preparation strategy.",
+    "file": "ielts-overview.pdf"
+  }
+]

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="RI Library">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F8A68"/>
+      <stop offset="0.6" stop-color="#14614B"/>
+      <stop offset="1" stop-color="#0C3D31"/>
+    </linearGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F2C45A"/>
+      <stop offset="1" stop-color="#C98E21"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#bg)"/>
+  <path d="M32 21.5c-4.6-3.2-10.6-4.3-17-3.6v26.2c6.4-.7 12.4.4 17 3.6 4.6-3.2 10.6-4.3 17-3.6V17.9c-6.4-.7-12.4.4-17 3.6z" fill="#FBF6E9"/>
+  <path d="M32 21.5v26.6" stroke="#14614B" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- code mark "</" on the left page -->
+  <path d="M25 27.6l-5.2 5 5.2 5" fill="none" stroke="#14614B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M29 26.8l-2.6 11.6" fill="none" stroke="#14614B" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- text lines on the right page -->
+  <path d="M37.2 33h8.2M37.2 37.4h8.2M37.2 41.8h5" stroke="#14614B" stroke-width="2.1" stroke-linecap="round" opacity=".85"/>
+  <!-- brass bookmark -->
+  <path d="M39.8 17.1h6.6v12.4l-3.3-2.6-3.3 2.6z" fill="url(#brass)"/>
+</svg>
